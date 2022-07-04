@@ -1,0 +1,11 @@
+Buildfile: E:\MY PROJECTS\TestApp\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 52 files to E:\MY PROJECTS\TestApp\deployment
+     [copy] Copying 40 files to E:\MY PROJECTS\TestApp\deployment\model\lib\userlib
+     [copy] Copying 8 files to E:\MY PROJECTS\TestApp\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
